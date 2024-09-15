@@ -2,6 +2,10 @@
 
 This is a test project for learning how to use Leaflet and MapTiler with React using Vite, TypeScript, and Tailwind CSS.
 
+The geojson data used is static and is not being updated. It was downloaded from [Data SA](https://data.sa.gov.au/) the South Australian Government Data Directory.
+
+[https://data.sa.gov.au/data/dataset/?res_format=GeoJSON](https://data.sa.gov.au/data/dataset/?res_format=GeoJSON)
+
 ## Getting Started
 
 First, install the dependencies:
