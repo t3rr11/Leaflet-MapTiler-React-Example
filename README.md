@@ -14,6 +14,8 @@ yarn
 
 Then, create a file called `.env` in the root directory and add your MapTiler API key:
 
+If you need to obtain a MapTiler API key, you can do so by signing up for a free account at [https://cloud.maptiler.com/maps](https://cloud.maptiler.com/maps).
+
 _Ensure you have VITE\_ in front of the key as it specifies that it will be a public environment variable_
 
 ```
