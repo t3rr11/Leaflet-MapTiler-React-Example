@@ -1,4 +1,4 @@
-# Maps Test
+# Leaflet and MapTiler with React using Vite, TypeScript, and Tailwind CSS
 
 This is a test project for learning how to use Leaflet and MapTiler with React using Vite, TypeScript, and Tailwind CSS.
 
